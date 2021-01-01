@@ -39,6 +39,8 @@ plt.imshow(image_pil)
 plt.show()
 detect_image(image_pil)
 ```
+![StreetImage](https://user-images.githubusercontent.com/32286880/103432856-a1b5ea80-4b9b-11eb-91c3-f3ea65f5da55.PNG)
+
 The final prediction on a video can be called with the `detect_video` function
 ```
 video_path = '/content/data/video1.mp4'
